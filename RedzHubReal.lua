@@ -1,5 +1,1 @@
---loadstring(game:HttpGet("https://pastefy.app/06kvQNg2/raw"))()
---loadstring(game:HttpGet("https://pastefy.app/OtmsxZIo/raw"))()
---loadstring(game:HttpGet("https://pastefy.app/9fWFrcUb/raw"))()
---loadstring(game:HttpGet("https://pastefy.app/Og9P42Bh/raw"))()
-loadstring(game:HttpGet("https://pastefy.app/6WG5NA5x/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/TnROqBdE/raw"))()
